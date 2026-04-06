@@ -1,0 +1,33 @@
+python test_temperature.py
+=== Testing Temperature Sensitivity ===
+
+Temperature: 0.0
+--------------------------------------------------------------------------------
+Response: Một sự thật thú vị về Việt Nam là đất nước này có một hệ thống hang động lớn nhất thế giới, đó là hang Sơn Đoòng. Hang Sơn Đoòng nằm trong Vườn quốc gia Phong Nha-Kẻ Bàng, tỉnh Quảng Bình. Hang 
+được phát hiện vào năm 1991 bởi một người dân địa phương tên là Hồ Khanh, nhưng mãi đến năm 2009 mới được công bố rộng rãi sau khi một đoàn thám hiểm người Anh do Howard Limbert dẫn đầu tiến hành khảo sát. Hang Sơn Đoòng có kích thước khổng lồ với chiều dài hơn 5 km, cao 
+200 m và rộng 150 m. Bên trong hang có cả một hệ sinh thái riêng biệt, với rừng cây, sông ngầm và các loài động thực vật độc đáo.       
+Latency: 2.965s
+
+
+Temperature: 0.5
+--------------------------------------------------------------------------------
+Response: Một sự thật thú vị về Việt Nam là đất nước này có hệ thống hang động lớn nhất thế giới, đó là hang Sơn Đoòng. Hang Sơn Đoòng nằm trong Vườn quốc gia Phong Nha-Kẻ Bàng, thuộc tỉnh Quảng Bình. Hang này được hình thành khoảng 2-5 triệu năm trước và được phát hiện vào năm 1991 bởi một người dân địa phương tên là Hồ Khanh, nhưng mãi 
+đến năm 2009 mới được công nhận và khảo sát bởi các nhà thám hiểm hang động người Anh. Hang Sơn Đoòng có kích thước khổng lồ với chiều cao có thể chứa một tòa nhà 40 tầng và chiều rộng đủ để chứa một chiếc Boeing 747. Ngoài ra, hang còn có hệ sinh thái riêng với rừng cây, sông ngầm và hệ động thực vật độc đáo.
+Latency: 3.952s
+
+
+Temperature: 1.0
+--------------------------------------------------------------------------------
+Response: Một sự thật thú vị về Việt Nam là đất nước này là quê hương của hang động lớn nhất thế giới, Hang Sơn Đoòng. Nằm trong Vườn quốc gia Phong Nha-Kẻ Bàng thuộc tỉnh Quảng Bình, hang Sơn Đoòng có kích thước khổng lồ với chiều dài hơn 5 km, chiều cao 200 m và rộng 150 m. Bên trong hang có cả rừng rậm và hệ sinh thái riêng biệt. Hang 
+được phát hiện lần đầu vào năm 1991 bởi một người dân địa phương và 
+chỉ được khảo sát kỹ lưỡng vào năm 2009 bởi một đoàn thám hiểm người Anh. Sự hùng vĩ và kỳ bí của hang Sơn Đoòng đã thu hút sự chú ý của du khách và các nhà khoa học từ khắp nơi trên thế giới.
+Latency: 2.447s
+
+
+Temperature: 1.5
+--------------------------------------------------------------------------------
+Response: Một sự thật thú vị về Việt Nam là đất nước này là quê hương của loài rùa hồ Gươm (còn gọi là rùa Rafetus swinhoei), một trong 
+những loài rùa quý hiếm nhất thế giới. Hồ Gươm (hay còn gọi là Hồ Hoàn Kiếm) ở Hà Nội từng là nơi cư ngụ của loài rùa này. Theo truyền thuyết, rùa hồ Gươm liên quan đến câu chuyện vua Lê Lợi trả gươm báu 
+cho rùa thần sau khi đánh đuổi giặc ngoại xâm, tạo nên một trong những huyền thoại nổi tiếng của Việt Nam. Mặc dù hiện nay loài rùa này 
+đang bị đe dọa nghiêm trọng và rất khó để nhìn thấy, nhưng nó vẫn là biểu tượng văn hóa và tâm linh quan trọng đối với người dân Việt Nam.
+Latency: 3.519s
